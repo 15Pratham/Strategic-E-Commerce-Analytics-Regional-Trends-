@@ -1,4 +1,4 @@
-📊 E-Commerce Sales Dashboard (Power BI)
+📊 Strategic E-Commerce Analytics & Regional Trends (Power BI)
 
 📌 Overview
 
